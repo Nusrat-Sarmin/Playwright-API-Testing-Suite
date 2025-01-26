@@ -40,3 +40,8 @@ npx playwright show-report
 ```
 
 <img width="903" alt="playwright image01" src="https://github.com/user-attachments/assets/a8e6f251-8452-4249-8b40-36c1c299d058">
+
+# Video
+
+https://github.com/user-attachments/assets/e3751476-e6bf-47af-88fe-b5d06f86a314
+
